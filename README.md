@@ -163,3 +163,10 @@ This notebook is the best entry point for new users.
 - Reduced feature sets
 - Randomized transition models
 - Direct value‑only regressors
+
+## 📄 Dataset Acknowledgment
+
+This project uses the **Online Retail II** dataset from the UCI Machine Learning Repository:
+> Chen, D. (2012). Online Retail II [Dataset].
+> UCI Machine Learning Repository.
+> https://doi.org/10.24432/C5CG6D.
