@@ -29,7 +29,7 @@ pip install -r requirements.txt
 
 ## 📥 Dataset Setup (Manual Download Required)
 
-The Online Retail II dataset must be downloaded manually
+The Online Retail II dataset **must be downloaded manually**
 
 1. Download the dataset manually
 
