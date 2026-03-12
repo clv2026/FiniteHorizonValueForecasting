@@ -1,0 +1,13 @@
+joblib==1.5.0
+pandas
+numpy
+scikit-learn
+matplotlib
+scienceplots
+seaborn
+openpyxl
+ipywidgets
+ipython
+pyyaml
+wesanderson
+plotly

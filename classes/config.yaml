@@ -1,0 +1,7 @@
+freq: 'M'                # Frequency for grouping data: 1 month ('M'), 1 week ('W')
+period: 2                # Horizon for prediction (choose from 2, 3, 4)
+test_mode: false         # Set to true to use a reduced dataset for faster testing
+data_path: "classes/data"
+data_file: "online_retail_II.xlsx"
+save_csv: false          # Set to true to export the preprocessed dataset as CSV
+benchmarks: false        # Set to true to run benchmark models
