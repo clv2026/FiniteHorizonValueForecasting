@@ -5,7 +5,9 @@
   <img src=Fig1.png>
 </p>
 
-This repository contains the official implementation accompanying the paper: **_Modular Probabilistic Engagement‑State for Interpretable Finite‑Horizon Revenue Forecasting_**
+This repository contains the official implementation accompanying the paper: **_Modular Probabilistic Engagement‑State for Interpretable Finite‑Horizon Revenue Forecasting_** accepted at [ECML PKDD 2026](https://ecmlpkdd.org/2026/).
+
+**Authors:** Stefania Stan, Claudio Ricci, Rolands Repetto, Yuntao Li, Detlef Repplinger, Maximilian Scrase.
 
 The framework provides a fully modular and extensible pipeline for **engagement‑driven multi‑step forecasting**, separating behavioral evolution (engagement‑state transitions) from downstream value realization.  
 It supports horizon‑aware diagnostics, interpretable intermediate representations, and competitive predictive performance compared to strong direct regression baselines.
