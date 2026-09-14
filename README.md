@@ -172,3 +172,18 @@ This project uses the **Online Retail II** dataset from the UCI Machine Learning
 > Chen, D. (2012). Online Retail II [Dataset].
 > UCI Machine Learning Repository.
 > https://doi.org/10.24432/C5CG6D.
+
+## Citation
+
+Please cite:
+```
+@inbook{inbook,
+  author = {Stan, Stefania and Ricci, Claudio and Repetto, Rolands and Repplinger, Detlef and Li, Yuntao and Scrase, Maximillian},
+  year = {2026},
+  month = {09},
+  pages = {182-198},
+  title = {Modular Probabilistic Engagement-State for Interpretable Finite-Horizon Revenue Forecasting},
+  isbn = {978-3-032-37684-8},
+  doi = {10.1007/978-3-032-37685-5_11}
+}
+```
